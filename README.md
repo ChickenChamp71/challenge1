@@ -12,7 +12,7 @@ N/A
 
 View different aspects of Horiseon's capabilities. Utilize the top bar to navigate under different sections of the information.
 
-https://chickenchamp71.github.io/challenge1/#social-media-marketing
+https://chickenchamp71.github.io/horiseon-challenge-1/
 
 ![alt text](./assets/images/horiseon-screenshot-1.png)
 
